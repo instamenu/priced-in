@@ -1,5 +1,5 @@
 {
-  "cash": 7.17,
+  "cash": 0,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -21,7 +21,8 @@
     "CDNS": 1,
     "NVNI": 240,
     "DTCK": 65,
-    "TTOO": 300
+    "TTOO": 0,
+    "RAYA": 92
   },
   "history": [
     {
@@ -103,6 +104,22 @@
       "shares": 7,
       "price": 7.16,
       "total": 50.120000000000005
+    },
+    {
+      "date": "2025-07-30T20:06:32.071Z",
+      "type": "sell",
+      "ticker": "TTOO",
+      "shares": 300,
+      "price": 0.0152,
+      "total": 4.56
+    },
+    {
+      "date": "2025-07-30T20:07:05.714Z",
+      "type": "buy",
+      "ticker": "RAYA",
+      "shares": 92,
+      "price": 0.1275,
+      "total": 11.73
     }
   ]
 }
