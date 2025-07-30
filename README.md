@@ -4,21 +4,29 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $1,000.00** (N/A% CAGR)
+## 💰 Portfolio value: $992.44** (N/A% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $0.46 |
+| Cash | - | $7.17 |
+| HLIT | 11 | $99.00 |
 | ENVB | 63 | $77.49 |
-| CASK | 312 | $180.96 |
-| STAI | 185 | $220.15 |
-| CDNS | 1 | $366.26 |
-| NVNI | 240 | $154.68 |
+| IMNN | 7 | $49.00 |
+| STAI | 185 | $182.85 |
+| CDNS | 1 | $365.50 |
+| NVNI | 240 | $111.10 |
+| DTCK | 65 | $60.13 |
+| TTOO | 300 | $40.20 |
 
 ### 📈 Recent trades
 
+- **July 30, 2025 at 2:41:08 PM**: BUY 7 IMNN @ $7.16/share ($50.12)
+- **July 30, 2025 at 2:40:56 PM**: BUY 300 TTOO @ $0.0152/share ($4.56)
+- **July 30, 2025 at 2:40:56 PM**: BUY 11 HLIT @ $9/share ($99.00)
+- **July 30, 2025 at 2:40:55 PM**: BUY 65 DTCK @ $0.925/share ($60.13)
+- **July 30, 2025 at 2:39:45 PM**: SELL 312 CASK @ $0.7068/share ($220.52)
 - **July 30, 2025 at 6:05:33 AM**: BUY 63 ENVB @ $1.23/share ($77.49)
 - **July 30, 2025 at 5:55:15 AM**: BUY 240 NVNI @ $0.6445/share ($154.68)
 - **July 30, 2025 at 5:55:13 AM**: BUY 1 CDNS @ $366.26/share ($366.26)
