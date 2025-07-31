@@ -4,24 +4,26 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $923.38** (N/A% CAGR)
+## 💰 Portfolio value: $998.12** (-51.02% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $0.00 |
-| HLIT | 11 | $98.62 |
-| ENVB | 63 | $76.86 |
+| Cash | - | $0.01 |
+| HLIT | 11 | $96.14 |
+| ENVB | 63 | $78.75 |
 | IMNN | 7 | $50.12 |
-| STAI | 185 | $134.57 |
-| CDNS | 1 | $370.73 |
-| NVNI | 240 | $120.62 |
-| DTCK | 65 | $60.13 |
-| RAYA | 92 | $11.73 |
+| STAI | 185 | $142.80 |
+| CDNS | 1 | $375.01 |
+| NVNI | 240 | $182.40 |
+| DTCK | 65 | $59.15 |
+| MSFT | 0.0255 | $13.74 |
 
 ### 📈 Recent trades
 
+- **July 31, 2025 at 2:41:14 PM**: BUY 0.0255 MSFT @ $538.93/share ($13.74)
+- **July 31, 2025 at 2:40:29 PM**: SELL 92 RAYA @ $0.1495/share ($13.75)
 - **July 30, 2025 at 8:07:05 PM**: BUY 92 RAYA @ $0.1275/share ($11.73)
 - **July 30, 2025 at 8:06:32 PM**: SELL 300 TTOO @ $0.0152/share ($4.56)
 - **July 30, 2025 at 2:41:08 PM**: BUY 7 IMNN @ $7.16/share ($50.12)
@@ -30,8 +32,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **July 30, 2025 at 2:40:55 PM**: BUY 65 DTCK @ $0.925/share ($60.13)
 - **July 30, 2025 at 2:39:45 PM**: SELL 312 CASK @ $0.7068/share ($220.52)
 - **July 30, 2025 at 6:05:33 AM**: BUY 63 ENVB @ $1.23/share ($77.49)
-- **July 30, 2025 at 5:55:15 AM**: BUY 240 NVNI @ $0.6445/share ($154.68)
-- **July 30, 2025 at 5:55:13 AM**: BUY 1 CDNS @ $366.26/share ($366.26)
 
 <!-- auto end -->
 

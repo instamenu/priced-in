@@ -1,5 +1,5 @@
 {
-  "cash": 0,
+  "cash": 0.01,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -22,7 +22,8 @@
     "NVNI": 240,
     "DTCK": 65,
     "TTOO": 0,
-    "RAYA": 92
+    "RAYA": 0,
+    "MSFT": 0.0255
   },
   "history": [
     {
@@ -120,6 +121,22 @@
       "shares": 92,
       "price": 0.1275,
       "total": 11.73
+    },
+    {
+      "date": "2025-07-31T14:40:29.005Z",
+      "type": "sell",
+      "ticker": "RAYA",
+      "shares": 92,
+      "price": 0.1495,
+      "total": 13.754
+    },
+    {
+      "date": "2025-07-31T14:41:14.514Z",
+      "type": "buy",
+      "ticker": "MSFT",
+      "shares": 0.0255,
+      "price": 538.93,
+      "total": 13.742714999999999
     }
   ]
 }
