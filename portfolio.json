@@ -1,5 +1,5 @@
 {
-  "cash": 0.01,
+  "cash": 0.34,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -13,7 +13,7 @@
     "HEI": 0,
     "XLI": 0,
     "HLIT": 11,
-    "ENVB": 63,
+    "ENVB": 0,
     "IMNN": 7,
     "COST": 0,
     "CASK": 0,
@@ -23,7 +23,9 @@
     "DTCK": 65,
     "TTOO": 0,
     "RAYA": 0,
-    "MSFT": 0.0255
+    "MSFT": 0.0255,
+    "WOLF": 10,
+    "AMBA": 1
   },
   "history": [
     {
@@ -137,6 +139,30 @@
       "shares": 0.0255,
       "price": 538.93,
       "total": 13.742714999999999
+    },
+    {
+      "date": "2025-08-26T14:38:29.518Z",
+      "type": "sell",
+      "ticker": "ENVB",
+      "shares": 63,
+      "price": 1.36,
+      "total": 85.68
+    },
+    {
+      "date": "2025-08-26T14:41:34.174Z",
+      "type": "buy",
+      "ticker": "WOLF",
+      "shares": 10,
+      "price": 1.335,
+      "total": 13.35
+    },
+    {
+      "date": "2025-08-26T14:41:34.752Z",
+      "type": "buy",
+      "ticker": "AMBA",
+      "shares": 1,
+      "price": 72,
+      "total": 72
     }
   ]
 }
