@@ -1,5 +1,5 @@
 {
-  "cash": 0.34,
+  "cash": 0.27,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -20,12 +20,14 @@
     "STAI": 185,
     "CDNS": 1,
     "NVNI": 240,
-    "DTCK": 65,
+    "DTCK": 0,
     "TTOO": 0,
     "RAYA": 0,
     "MSFT": 0.0255,
     "WOLF": 10,
-    "AMBA": 1
+    "AMBA": 1,
+    "LMND": 1,
+    "KLTO": 14
   },
   "history": [
     {
@@ -163,6 +165,30 @@
       "shares": 1,
       "price": 72,
       "total": 72
+    },
+    {
+      "date": "2025-09-03T14:39:00.511Z",
+      "type": "sell",
+      "ticker": "DTCK",
+      "shares": 65,
+      "price": 0.9298,
+      "total": 60.437
+    },
+    {
+      "date": "2025-09-03T14:41:47.499Z",
+      "type": "buy",
+      "ticker": "LMND",
+      "shares": 1,
+      "price": 51.88,
+      "total": 51.88
+    },
+    {
+      "date": "2025-09-03T14:43:31.684Z",
+      "type": "buy",
+      "ticker": "KLTO",
+      "shares": 14,
+      "price": 0.6161,
+      "total": 8.625399999999999
     }
   ]
 }

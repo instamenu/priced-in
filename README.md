@@ -4,25 +4,29 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $874.82** (-75.65% CAGR)
+## 💰 Portfolio value: $882.34** (-72.20% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $0.34 |
-| HLIT | 11 | $105.66 |
-| IMNN | 7 | $50.12 |
-| STAI | 185 | $68.08 |
-| CDNS | 1 | $342.43 |
+| Cash | - | $0.27 |
+| HLIT | 11 | $105.05 |
+| IMNN | 7 | $49.00 |
+| STAI | 185 | $71.47 |
+| CDNS | 1 | $343.81 |
 | NVNI | 240 | $146.40 |
-| DTCK | 65 | $56.15 |
-| MSFT | 0.0255 | $12.88 |
-| WOLF | 10 | $12.80 |
-| AMBA | 1 | $79.96 |
+| MSFT | 0.0255 | $12.89 |
+| WOLF | 10 | $13.45 |
+| AMBA | 1 | $79.68 |
+| LMND | 1 | $51.69 |
+| KLTO | 14 | $8.63 |
 
 ### 📈 Recent trades
 
+- **September 3, 2025 at 2:43:31 PM**: BUY 14 KLTO @ $0.6161/share ($8.63)
+- **September 3, 2025 at 2:41:47 PM**: BUY 1 LMND @ $51.88/share ($51.88)
+- **September 3, 2025 at 2:39:00 PM**: SELL 65 DTCK @ $0.9298/share ($60.44)
 - **August 26, 2025 at 2:41:34 PM**: BUY 1 AMBA @ $72/share ($72.00)
 - **August 26, 2025 at 2:41:34 PM**: BUY 10 WOLF @ $1.335/share ($13.35)
 - **August 26, 2025 at 2:38:29 PM**: SELL 63 ENVB @ $1.36/share ($85.68)
@@ -30,9 +34,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **July 31, 2025 at 2:40:29 PM**: SELL 92 RAYA @ $0.1495/share ($13.75)
 - **July 30, 2025 at 8:07:05 PM**: BUY 92 RAYA @ $0.1275/share ($11.73)
 - **July 30, 2025 at 8:06:32 PM**: SELL 300 TTOO @ $0.0152/share ($4.56)
-- **July 30, 2025 at 2:41:08 PM**: BUY 7 IMNN @ $7.16/share ($50.12)
-- **July 30, 2025 at 2:40:56 PM**: BUY 300 TTOO @ $0.0152/share ($4.56)
-- **July 30, 2025 at 2:40:56 PM**: BUY 11 HLIT @ $9/share ($99.00)
 
 <!-- auto end -->
 
