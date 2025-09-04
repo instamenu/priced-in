@@ -1,5 +1,5 @@
 {
-  "cash": 0.27,
+  "cash": 0.17,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -27,7 +27,8 @@
     "WOLF": 10,
     "AMBA": 1,
     "LMND": 1,
-    "KLTO": 14
+    "KLTO": 0,
+    "UGRO": 19
   },
   "history": [
     {
@@ -189,6 +190,22 @@
       "shares": 14,
       "price": 0.6161,
       "total": 8.625399999999999
+    },
+    {
+      "date": "2025-09-04T20:10:19.879Z",
+      "type": "sell",
+      "ticker": "KLTO",
+      "shares": 14,
+      "price": 0.69,
+      "total": 9.66
+    },
+    {
+      "date": "2025-09-04T20:12:14.786Z",
+      "type": "buy",
+      "ticker": "UGRO",
+      "shares": 19,
+      "price": 0.5137,
+      "total": 9.7603
     }
   ]
 }
