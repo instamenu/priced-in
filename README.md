@@ -4,26 +4,28 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $874.33** (-72.81% CAGR)
+## 💰 Portfolio value: $879.76** (-68.12% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $0.17 |
-| HLIT | 11 | $109.78 |
-| IMNN | 7 | $50.12 |
-| STAI | 185 | $66.97 |
-| CDNS | 1 | $350.64 |
-| NVNI | 240 | $129.84 |
-| MSFT | 0.0255 | $12.60 |
-| WOLF | 10 | $12.45 |
-| AMBA | 1 | $82.80 |
-| LMND | 1 | $50.07 |
-| UGRO | 19 | $8.89 |
+| Cash | - | $2.84 |
+| HLIT | 11 | $110.22 |
+| STAI | 185 | $68.06 |
+| CDNS | 1 | $358.82 |
+| NVNI | 240 | $133.22 |
+| MSFT | 0.0255 | $12.77 |
+| WOLF | 10 | $12.20 |
+| AMBA | 1 | $83.39 |
+| LMND | 1 | $50.98 |
+| UGRO | 19 | $9.75 |
+| CCLD | 11 | $37.51 |
 
 ### 📈 Recent trades
 
+- **September 8, 2025 at 2:45:19 PM**: BUY 11 CCLD @ $3.41/share ($37.51)
+- **September 8, 2025 at 2:41:35 PM**: SELL 7 IMNN @ $5.74/share ($40.18)
 - **September 4, 2025 at 8:12:14 PM**: BUY 19 UGRO @ $0.5137/share ($9.76)
 - **September 4, 2025 at 8:10:19 PM**: SELL 14 KLTO @ $0.69/share ($9.66)
 - **September 3, 2025 at 2:43:31 PM**: BUY 14 KLTO @ $0.6161/share ($8.63)
@@ -32,8 +34,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **August 26, 2025 at 2:41:34 PM**: BUY 1 AMBA @ $72/share ($72.00)
 - **August 26, 2025 at 2:41:34 PM**: BUY 10 WOLF @ $1.335/share ($13.35)
 - **August 26, 2025 at 2:38:29 PM**: SELL 63 ENVB @ $1.36/share ($85.68)
-- **July 31, 2025 at 2:41:14 PM**: BUY 0.0255 MSFT @ $538.93/share ($13.74)
-- **July 31, 2025 at 2:40:29 PM**: SELL 92 RAYA @ $0.1495/share ($13.75)
 
 <!-- auto end -->
 

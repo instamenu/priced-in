@@ -1,5 +1,5 @@
 {
-  "cash": 0.17,
+  "cash": 2.84,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -14,7 +14,7 @@
     "XLI": 0,
     "HLIT": 11,
     "ENVB": 0,
-    "IMNN": 7,
+    "IMNN": 0,
     "COST": 0,
     "CASK": 0,
     "STAI": 185,
@@ -28,7 +28,8 @@
     "AMBA": 1,
     "LMND": 1,
     "KLTO": 0,
-    "UGRO": 19
+    "UGRO": 19,
+    "CCLD": 11
   },
   "history": [
     {
@@ -206,6 +207,22 @@
       "shares": 19,
       "price": 0.5137,
       "total": 9.7603
+    },
+    {
+      "date": "2025-09-08T14:41:35.786Z",
+      "type": "sell",
+      "ticker": "IMNN",
+      "shares": 7,
+      "price": 5.74,
+      "total": 40.18
+    },
+    {
+      "date": "2025-09-08T14:45:19.237Z",
+      "type": "buy",
+      "ticker": "CCLD",
+      "shares": 11,
+      "price": 3.41,
+      "total": 37.510000000000005
     }
   ]
 }
