@@ -1,5 +1,5 @@
 {
-  "cash": 2.84,
+  "cash": 1.21,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -24,12 +24,13 @@
     "TTOO": 0,
     "RAYA": 0,
     "MSFT": 0.0255,
-    "WOLF": 10,
+    "WOLF": 0,
     "AMBA": 1,
     "LMND": 1,
     "KLTO": 0,
     "UGRO": 19,
-    "CCLD": 11
+    "CCLD": 11,
+    "LTRY": 14
   },
   "history": [
     {
@@ -223,6 +224,22 @@
       "shares": 11,
       "price": 3.41,
       "total": 37.510000000000005
+    },
+    {
+      "date": "2025-09-09T14:42:16.809Z",
+      "type": "sell",
+      "ticker": "WOLF",
+      "shares": 10,
+      "price": 1.755,
+      "total": 17.549999999999997
+    },
+    {
+      "date": "2025-09-09T14:45:47.656Z",
+      "type": "buy",
+      "ticker": "LTRY",
+      "shares": 14,
+      "price": 1.37,
+      "total": 19.18
     }
   ]
 }
