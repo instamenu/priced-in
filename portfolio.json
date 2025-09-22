@@ -1,5 +1,5 @@
 {
-  "cash": 1.2,
+  "cash": 5.61,
   "holdings": {
     "PLTR": 0,
     "TSLA": 0,
@@ -25,13 +25,15 @@
     "RAYA": 0,
     "MSFT": 0.0255,
     "WOLF": 0,
-    "AMBA": 1,
+    "AMBA": 0,
     "LMND": 1,
     "KLTO": 0,
     "UGRO": 0,
     "CCLD": 11,
     "LTRY": 14,
-    "PRSO": 9
+    "PRSO": 9,
+    "HOUS": 3,
+    "MTSR": 1
   },
   "history": [
     {
@@ -257,6 +259,30 @@
       "shares": 9,
       "price": 1.31,
       "total": 11.790000000000001
+    },
+    {
+      "date": "2025-09-22T20:14:10.636Z",
+      "type": "sell",
+      "ticker": "AMBA",
+      "shares": 1,
+      "price": 88.82,
+      "total": 88.82
+    },
+    {
+      "date": "2025-09-22T20:20:20.433Z",
+      "type": "buy",
+      "ticker": "HOUS",
+      "shares": 3,
+      "price": 10.295,
+      "total": 30.884999999999998
+    },
+    {
+      "date": "2025-09-22T20:20:21.256Z",
+      "type": "buy",
+      "ticker": "MTSR",
+      "shares": 1,
+      "price": 53.53,
+      "total": 53.53
     }
   ]
 }

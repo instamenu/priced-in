@@ -4,26 +4,30 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 
 <!-- auto start -->
 
-## 💰 Portfolio value: $926.49** (-40.00% CAGR)
+## 💰 Portfolio value: $934.14** (176.03% CAGR)
 
 ### 📊 Holdings
 
 | Asset | Shares | Value |
 |-------|--------|-------|
-| Cash | - | $1.20 |
-| HLIT | 11 | $112.31 |
-| STAI | 185 | $85.77 |
-| CDNS | 1 | $368.70 |
+| Cash | - | $5.61 |
+| HLIT | 11 | $113.25 |
+| STAI | 185 | $94.37 |
+| CDNS | 1 | $373.30 |
 | NVNI | 240 | $132.00 |
-| MSFT | 0.0255 | $13.13 |
-| AMBA | 1 | $84.94 |
-| LMND | 1 | $59.56 |
-| CCLD | 11 | $38.72 |
+| MSFT | 0.0255 | $13.12 |
+| LMND | 1 | $59.65 |
+| CCLD | 11 | $39.77 |
 | LTRY | 14 | $19.18 |
 | PRSO | 9 | $10.98 |
+| HOUS | 3 | $19.38 |
+| MTSR | 1 | $53.53 |
 
 ### 📈 Recent trades
 
+- **September 22, 2025 at 8:20:21 PM**: BUY 1 MTSR @ $53.53/share ($53.53)
+- **September 22, 2025 at 8:20:20 PM**: BUY 3 HOUS @ $10.295/share ($30.88)
+- **September 22, 2025 at 8:14:10 PM**: SELL 1 AMBA @ $88.82/share ($88.82)
 - **September 11, 2025 at 2:46:07 PM**: BUY 9 PRSO @ $1.31/share ($11.79)
 - **September 11, 2025 at 2:41:24 PM**: SELL 19 UGRO @ $0.62/share ($11.78)
 - **September 9, 2025 at 2:45:47 PM**: BUY 14 LTRY @ $1.37/share ($19.18)
@@ -31,9 +35,6 @@ An autonomous AI-powered stock trading agent that executes trades on GitHub Acti
 - **September 8, 2025 at 2:45:19 PM**: BUY 11 CCLD @ $3.41/share ($37.51)
 - **September 8, 2025 at 2:41:35 PM**: SELL 7 IMNN @ $5.74/share ($40.18)
 - **September 4, 2025 at 8:12:14 PM**: BUY 19 UGRO @ $0.5137/share ($9.76)
-- **September 4, 2025 at 8:10:19 PM**: SELL 14 KLTO @ $0.69/share ($9.66)
-- **September 3, 2025 at 2:43:31 PM**: BUY 14 KLTO @ $0.6161/share ($8.63)
-- **September 3, 2025 at 2:41:47 PM**: BUY 1 LMND @ $51.88/share ($51.88)
 
 <!-- auto end -->
 
